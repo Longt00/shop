@@ -47,14 +47,14 @@ public class Category {
         this.sort = sort;
     }
 
-    @Override
-    public String toString() {
-        return "Category{" +
-                "id=" + id +
-                ", name='" + name + '\'' +
-                ", parentId=" + parentId +
-                ", isParent=" + isParent +
-                ", sort=" + sort +
-                '}';
-    }
+//    @Override
+//    public String toString() {
+//        return "Category{" +
+//                "id=" + id +
+//                ", name='" + name + '\'' +
+//                ", parentId=" + parentId +
+//                ", isParent=" + isParent +
+//                ", sort=" + sort +
+//                '}';
+//    }
 }

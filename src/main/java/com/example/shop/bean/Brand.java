@@ -41,13 +41,13 @@ public class Brand {
         this.letter = letter;
     }
 
-    @Override
-    public String toString() {
-        return "Brand{" +
-                "id=" + id +
-                ", name='" + name + '\'' +
-                ", image='" + image + '\'' +
-                ", letter='" + letter + '\'' +
-                '}';
-    }
+//    @Override
+//    public String toString() {
+//        return "Brand{" +
+//                "id=" + id +
+//                ", name='" + name + '\'' +
+//                ", image='" + image + '\'' +
+//                ", letter='" + letter + '\'' +
+//                '}';
+//    }
 }
